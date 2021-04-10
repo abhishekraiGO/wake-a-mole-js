@@ -1,0 +1,15 @@
+Wake a mole-
+open index.html file to PLAY
+
+APP.JS FILE CONTAINES THE WORKING OF THE GAME
+
+STEPS-
+1.Creating UI(score,timer,grid,a mole)
+2.adding the mole movement.
+3.creating event to listen the click and if the mole box matches the user click ,increament the score.
+4.Add the setInterval to stop the game as the time finishes.
+5.using css to beutify the content.
+
+for complete code refer to -----app.js-----
+
+thankyou...!
